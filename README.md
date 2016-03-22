@@ -7,6 +7,7 @@ Java has provided a convenient API, scheduleAtFixedRate, which executes tasks wi
 # How to use it
 Please refer to the example code in the example folder. It will display the message similar as below while being executed.
 
+
 [PeriodicThread] Create!!
 2016-03-21 17:50:10.025 The task is alive.
 2016-03-21 17:50:15.042 The task is alive.
