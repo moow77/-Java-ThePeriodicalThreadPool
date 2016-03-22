@@ -7,13 +7,19 @@ Java has provided a convenient API, scheduleAtFixedRate, which executes tasks wi
 # How to use it
 Please refer to the example code in the example folder. It will display the message similar as below while being executed.
 
-
 [PeriodicThread] Create!!
+
 2016-03-21 17:50:10.025 The task is alive.
+
 2016-03-21 17:50:15.042 The task is alive.
+
 2016-03-21 17:50:18.022 Shutdown now !!
+
 2016-03-21 17:50:18.022 Receiving shutdown signal, Ending the process.
+
 2016-03-21 17:50:28.022 Ending
+
+
 
 # The next step
 I am keeping improving this thread pool for making it better. If you have any suggestion for it, please tell me without hesitation.
